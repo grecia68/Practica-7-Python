@@ -4,4 +4,4 @@
 
 
 ### Capturas
-<img Practica_7--Python ="/capturas/Imagen1.png"><br>
+<img s="Práctica_7--Python/capturas/Imagen1.png"><br>
