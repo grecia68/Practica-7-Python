@@ -57,13 +57,3 @@ print()
 print(f'Total de estudiantes aprobados: {con_aprobado}')
 print(f'Total de estudiantes reprobados: {con_reprobado}')
 
-
-
-
-
-
-
-
-
-
-
