@@ -4,4 +4,4 @@
 
 
 ### Capturas
-<img "Pyton/capturas/Imagen1.png"><br>
+<img src="Pyton/capturas/Imagen1.png"><br>
