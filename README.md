@@ -70,6 +70,6 @@ evaluar_aprobacion(): Devuelve True si el promedio es ≥ 6.0, en otro caso devu
 	•	El uso de listas (list, ArrayList) facilita el almacenamiento dinámico de datos.
 
 
-### Capturas
+## Capturas
 <img src="Python/capturas/Imagen1.png"><br>
 <img src="practicaTraducidoJava/capturas/capUno.PNG"><br>
