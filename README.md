@@ -33,8 +33,38 @@ evaluar_aprobacion(): Devuelve True si el promedio es ≥ 6.0, en otro caso devu
 - Al final muestra:
    - Nombre, promedio, estado (Aprobado/Reprobado)
    - Conteo total de aprobados y reprobados
-  
 
+  ## Versión en Java
+  ## Clases Utilizadas
+  
+  Main: Controla el flujo principal del programa (entrada de datos, resultados)
+
+Estudiante: Define los atributos nombre, calificaciones, promedio y estado
+
+## Instrucciones para Compilar
+1. Asegúrate de tener los siguientes archivos en el mismo paquete (carpeta):
+   practicaTraducidoJava/
+  ├── Estudiante.java
+  └── Main.java
+2. Compila ambos archivos desde la terminal: javac practicaTraducidoJava/*.java
+3. Ejecuta el programa: java practicaTraducidoJava.Main
+
+   ## Lógica Principal
+   - Se usa Scanner para capturar entradas
+   - Se crea una lista de objetos Estudiante
+   - Cada estudiante se construye con:
+      - Nombre
+      - Lista de 3 calificaciones
+   - En el constructor de Estudiante, se calculan:
+      -  Promedio automáticamente
+      -  Estado (Aprobado/Reprobado)
+   -  Finalmente, se imprime el resumen con totales
+  
+     ## Conclusiones
+   	•	La versión en Python es más compacta y directa, ideal para scripts simples.
+	•	La versión en Java usa Programación Orientada a Objetos, lo que permite mayor escalabilidad y organización.
+	•	Ambos programas refuerzan buenas prácticas como separación de lógica y validación por funciones/métodos.
+	•	El uso de listas (list, ArrayList) facilita el almacenamiento dinámico de datos.
 
 
 ### Capturas
