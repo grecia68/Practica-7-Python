@@ -39,7 +39,7 @@ evaluar_aprobacion(): Devuelve True si el promedio es ≥ 6.0, en otro caso devu
   
   Main: Controla el flujo principal del programa (entrada de datos, resultados)
 
-Estudiante: Define los atributos nombre, calificaciones, promedio y estado
+  Estudiante: Define los atributos nombre, calificaciones, promedio y estado
 
 ## Instrucciones para Compilar
 1. Asegúrate de tener los siguientes archivos en el mismo paquete (carpeta):
@@ -62,8 +62,11 @@ Estudiante: Define los atributos nombre, calificaciones, promedio y estado
   
      ## Conclusiones
    	•	La versión en Python es más compacta y directa, ideal para scripts simples.
+   
 	•	La versión en Java usa Programación Orientada a Objetos, lo que permite mayor escalabilidad y organización.
+
 	•	Ambos programas refuerzan buenas prácticas como separación de lógica y validación por funciones/métodos.
+
 	•	El uso de listas (list, ArrayList) facilita el almacenamiento dinámico de datos.
 
 
