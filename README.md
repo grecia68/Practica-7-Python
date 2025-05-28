@@ -43,6 +43,7 @@ evaluar_aprobacion(): Devuelve True si el promedio es ≥ 6.0, en otro caso devu
 
 ## Instrucciones para Compilar
 1. Asegúrate de tener los siguientes archivos en el mismo paquete (carpeta):
+   
    practicaTraducidoJava/
   ├── Estudiante.java
   └── Main.java
